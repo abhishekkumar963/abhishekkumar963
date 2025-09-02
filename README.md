@@ -5,9 +5,9 @@ Email Me 👉 ✉️ **query.abhi@gmail.com** For Collaboration/Project or Anyth
 
 - 🔭 **I’m currently working on:** Neighbour Skill Website
 - 🌱 **I’m currently learning:** Backend Development
-<--   - 👯 **I’m looking to collaborate on:** Enter your project name and info -->
-- 🤔 **I’m looking for help with:** Your project here
-- 💬 **Ask me about:** Collaboration, Tech Support
+<!--  - 👯 **I’m looking to collaborate on:** Enter your project name and info -->
+<!--  - 🤔 **I’m looking for help with:** Your project here -->
+<!--  - 💬 **Ask me about:** Collaboration, Tech Support  -->
 - 📫 **How to reach me:** query.abhi@gmail.com
 - 😄 **Pronouns:** Abhi
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
